@@ -2,8 +2,8 @@
 //  UserModel.m
 //  MVPDemoForSelf
 //
-//  Created by 谢伟 on 2018/11/9.
-//  Copyright © 2018 谢伟. All rights reserved.
+//  Created by Mr Xie on 2018/11/9.
+//  Copyright © 2018 Mr Xie. All rights reserved.
 //
 
 #import "UserModel.h"
